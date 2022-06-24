@@ -8,5 +8,8 @@ Completed Dice Roller app from the Android Kotlin Course. More towards the point
 
 Also created the Debugging app to learn a bit of logging. Again, not much has changed since I did Android development almost 12 years ago. Nice to see Kotlin is an easy transition from someone who originally learned Java.
 
-#### Shared Grocery List
+### Day 2: June 24th, 2022
+
+#### Coursework
+Started and completed the Lemonade squeeze app.
 
