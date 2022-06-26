@@ -13,3 +13,12 @@ Also created the Debugging app to learn a bit of logging. Again, not much has ch
 #### Coursework
 Started and completed the Lemonade squeeze app.
 
+### Day 3: June 25th, 2022
+
+#### Coursework
+Began implementing the Tip Calculator app. Did not follow tutorial except for layout for more in the spirit of this challenge.
+
+I do want to point out that I understand the point of this challenge is to actually write code as opposed to write tutorials, but I started this challenge to get back into Android development, specifically in Kotlin as I've never worked with it before 3 days ago.
+
+Overall, I'm having a blast working with Android again. Constraint layout makes this 100 times easier. I do fear, though, that learning Constraint layout may be a waste of time due to Jetpack Compose. Only time will tell.
+
