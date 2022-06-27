@@ -22,3 +22,11 @@ I do want to point out that I understand the point of this challenge is to actua
 
 Overall, I'm having a blast working with Android again. Constraint layout makes this 100 times easier. I do fear, though, that learning Constraint layout may be a waste of time due to Jetpack Compose. Only time will tell.
 
+### Day 4: June 26th, 2022
+
+#### Coursework
+Updated Tip Calculator app to use String Format. Apparnently Kotlin has some currency formatting built in that I will probably conver to.
+
+Also implemented displaying the total in the app along wiht rounding the tip up to the next dollar.
+
+Read a bit about view binding. Planning on implementing that tomorrow instead of the old FindViewById method.
