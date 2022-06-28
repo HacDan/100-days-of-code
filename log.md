@@ -30,3 +30,12 @@ Updated Tip Calculator app to use String Format. Apparnently Kotlin has some cur
 Also implemented displaying the total in the app along wiht rounding the tip up to the next dollar.
 
 Read a bit about view binding. Planning on implementing that tomorrow instead of the old FindViewById method.
+
+### Day 5.1: June 27(8)th, 2022
+
+#### Coursework
+Today's a bit late. Late night at work, but I still got my hour in, just not all before the time flipped over on the east coast. I didn't feel like traveling west just to fix this, I think in the spirit of things, I'm well within bounds. I haven't gone to bed yet, so we're good.
+
+Anyway, updated TipCalculator to use String resources instead of hardcoded values. Updated ID's to snake_case to work with modern convention. I also updated some of the business logic to be a bit safer when calling, while also implementing some DRY principals on error checking. More work to do in this area, but it's just a portfolio app from a tut, so, maybe not?
+
+All in all, a productive day considering everything else going on. I'm committed to not missing a day, even if it means stretching the rules to better meet the spirit of the challenge.
