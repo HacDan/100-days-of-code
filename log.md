@@ -39,7 +39,9 @@ Today's a bit late. Late night at work, but I still got my hour in, just not all
 Anyway, updated TipCalculator to use String resources instead of hardcoded values. Updated ID's to snake_case to work with modern convention. I also updated some of the business logic to be a bit safer when calling, while also implementing some DRY principals on error checking. More work to do in this area, but it's just a portfolio app from a tut, so, maybe not?
 
 All in all, a productive day considering everything else going on. I'm committed to not missing a day, even if it means stretching the rules to better meet the spirit of the challenge.
+<<<<<<< HEAD
 
 All in all, a productive day considering everything else going on. I'm committed to not missing a day, even if it means stretching the rules to better meet the spirit of the challenge.
 
 EDIT: I did want to add, that I'm planning on implementing logging tomorrow night along with converting to view bindings as that's what's the cool kids are doing now. Ran out of time tonight. Must sleep!
+
