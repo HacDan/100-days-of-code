@@ -44,4 +44,14 @@ All in all, a productive day considering everything else going on. I'm committed
 All in all, a productive day considering everything else going on. I'm committed to not missing a day, even if it means stretching the rules to better meet the spirit of the challenge.
 
 EDIT: I did want to add, that I'm planning on implementing logging tomorrow night along with converting to view bindings as that's what's the cool kids are doing now. Ran out of time tonight. Must sleep!
+### Day 6: June 28th, 2022
+
+#### Coursework
+So... today is again the 28th, as was the last commit, but I'd say I'm still in the clear. I stand by my reasoning. I did sleep in between.
+
+Anyway, worked on theming today. Also implemented View Bindings instead of findViewById (Which is what I learned 10+ years ago...) The times they are a changin' as they say. I mean, when I first learned Android Dev it was done in a completely different language which I actually despise... Getters and Setters just aren't for me, what can I say?
+
+Tomorrow I'm planning on implementing a horizontal layout and some testing. That should be it for this "App". I am working through the coursework as well, but I'm making sure to spend an hour on this "App" if that's what you want to call it outside of that coursework, just to make sure I' mstaying within the spirit of this challenge.
+
+Probably going to write a blogpost tomorrow on this challenge along with my progress so far with refreshing my Android knowledge. We'll see.
 
