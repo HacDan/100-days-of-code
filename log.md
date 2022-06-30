@@ -55,3 +55,11 @@ Tomorrow I'm planning on implementing a horizontal layout and some testing. That
 
 Probably going to write a blogpost tomorrow on this challenge along with my progress so far with refreshing my Android knowledge. We'll see.
 
+### Day 7: June 29th, 2022
+
+#### Work work?
+
+For my 1+ (9 hours) today... I worked on writing a script for some data conversions for work. While this was partly for my day job, I worked on this after hours for a 2-3 hours as well. Written in Python it takes a CSV file, transforms it while also converting some ASCII text over to an integer that represents some medical health data. Kind of hush-hush on this as it's work related, but I learned a lot.
+
+I'm going to skip out on the blog post for tonight and punt to tomorrow night. I want to reflect on my Android progress and all I have on the brain are snakes... darn Pythons!
+
