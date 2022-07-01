@@ -63,3 +63,10 @@ For my 1+ (9 hours) today... I worked on writing a script for some data conversi
 
 I'm going to skip out on the blog post for tonight and punt to tomorrow night. I want to reflect on my Android progress and all I have on the brain are snakes... darn Pythons!
 
+### Day 8: June 30th, 2022
+
+#### Clean up
+
+I started the blog post, but I don't think I'm going to finish it tonight. It's late. Lots of code cleanup today and refactoring. Wrote quite a bit of documentation as well. All in all a productive day.
+
+
