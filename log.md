@@ -69,4 +69,10 @@ I'm going to skip out on the blog post for tonight and punt to tomorrow night. I
 
 I started the blog post, but I don't think I'm going to finish it tonight. It's late. Lots of code cleanup today and refactoring. Wrote quite a bit of documentation as well. All in all a productive day.
 
+### Day 9: July 1st, 2022
 
+#### Testing
+
+Worked on setting up unit testing today for the Android app I've been working on. Worked my way through the istrumentation tests within the coursework as well.
+
+More progress on the blog post. I should have it done tomorrow. Too much life stuff happened at the end of this week to get it done.
