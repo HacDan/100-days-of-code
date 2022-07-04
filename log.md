@@ -76,3 +76,17 @@ I started the blog post, but I don't think I'm going to finish it tonight. It's 
 Worked on setting up unit testing today for the Android app I've been working on. Worked my way through the istrumentation tests within the coursework as well.
 
 More progress on the blog post. I should have it done tomorrow. Too much life stuff happened at the end of this week to get it done.
+
+### Day 10: July 2nd, 2022
+
+I did not work on anything on the 10th. I was going to, but fell asleep. I'm going to continue with this challenge either way.
+
+### Day 11: July 3rd, 2022
+
+#### Coursework
+
+Played with lists in Kotlin today. I find it interesting that there are mutable and immutable lists, but either way, much knowledge was gained.
+
+
+
+
